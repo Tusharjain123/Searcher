@@ -1,0 +1,25 @@
+.conta{
+    border: 1px solid black;
+    padding: 20px;
+    width: fit-content;
+    margin: auto;
+    border-radius: 30px;
+}
+
+.conta label{
+    margin: 10px;
+}
+
+.conta input{
+    width: 24vw;
+}
+
+#name{
+    margin-left: 28px;
+}
+#foundItem{
+    margin-left: 5px;
+}
+#foundDate{ 
+    margin-left: 4px;
+}

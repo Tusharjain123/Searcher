@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+.container{
+margin: 62px 32vw;
+    font-size: 7vw;
+    width: fit-content;
+    font-family: 'Moon Dance', cursive;
+    transform: rotate(-23deg);
+}
+.abc{
+    margin-left: 10px;
+}
+.fst{
+
+}
+.snd{
+
+}
+.thd{
+
+}

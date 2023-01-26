@@ -1,0 +1,30 @@
+.cont{
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 30px;
+    color: black;
+}
+
+.img img{ 
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    width: 100px;
+    height: 125px;
+}
+
+.img img:hover{
+    transition: 0.5s;
+border-radius: 10px;
+}
+
+.head{
+    text-align: center;
+    font-weight: bold;
+    font-size: 3vw;
+}
+.sum{
+    text-align: center;
+}

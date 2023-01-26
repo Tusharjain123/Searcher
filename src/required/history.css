@@ -1,0 +1,25 @@
+
+.box{
+    display: flex;
+    justify-content:left;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 10px;
+}
+.item{
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: left;
+    width: 300px;
+    margin: 10px;
+    background-color: #e5ffed;
+}
+.hea{
+    text-align: center;
+}
+li>span{
+    font-weight: bold;
+}
+.butt{
+    text-align: end;
+}
